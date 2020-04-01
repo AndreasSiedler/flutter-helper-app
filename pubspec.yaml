@@ -39,7 +39,7 @@ dev_dependencies:
 
 flutter_icons:
   android: true
-  iso: true
+  ios: true
   image_path: "dev_assets/nachbarhilfe.png"
   adaptive_icon_background: "#e10010"
   adaptive_icon_foreground: "dev_assets/nachbarhilfe-adaptive.png"
