@@ -1,15 +1,11 @@
 # helper_app_2
 
-A new Flutter project.
+This Flutter App is intended to connect volunteers with people in need from the neighbourhood.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [App Preview](#app-preview)
-- [Deploying](#deploying)
-  - [Progressive Web App](#progressive-web-app)
-  - [Android](#android)
-  - [iOS](#ios)
+- [App Preview (helpers)](#app-preview-(elpers))
+- [App Preview (needy)](#app-preview-(needy))
 
 
 ## Getting Started
@@ -26,7 +22,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-## App Preview (For the Helpers)
+## App Preview (Helpers)
 
 | Splash Screen  |  Overview  |
 | -----------------| -----|
@@ -34,13 +30,13 @@ samples, guidance on mobile development, and a full API reference.
 
 
 |  Detail  |
-| -----------------| -----|
+| -----------------|
 | ![Detail](/dev_assets/screenshots/screen-2.png) |
 
 
 
 
-## App Preview (For the needy)
+## App Preview (Needy)
 
 |  Overview |  Activation  |
 | -----------------| -----|
@@ -48,7 +44,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 | Contact Data  |
-| -----------------| -----|
+| -----------------|
 | ![Descover](/dev_assets/screenshots/screen-6.png) | 
 
 
